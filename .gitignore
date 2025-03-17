@@ -1,1 +1,10 @@
 /target
+
+# Preventing the roms from being commited to the repo
+/rom
+*.gb
+*.gbc
+*.sav
+/rom/*.gb
+/rom/*.gbc
+/rom/*.sav
